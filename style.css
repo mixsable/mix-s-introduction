@@ -1,0 +1,42 @@
+h2 {
+    color:rgb(51, 47, 51);
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+body {
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/a1/35/5c/a1355c9929b04c55234339456a019503.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}   
+
+.container {
+    background-color: rgb(99, 90, 99);
+    text-align: left;
+    border-radius: 25px;
+    max-width: 600px;
+    padding: 20px;
+    align-self: center;
+    justify-content: left;
+    display: flex;
+}   
+
+img {
+    width: 230px;
+    border-radius: 300px;     
+}
+
+a {
+    color:rgb(41, 39, 41);
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
